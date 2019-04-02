@@ -18,18 +18,20 @@
 ---
 
 <p align="center">
-  <a href="#-artistic">🎨 Artistic</a> • <a href="#-engineering">🔧 Engineering</a> • <a href="#-programming">💻 Programming</a>
-  • <a href="#-science">🧪 Science</a> • <a href="#-technology">⚡ Technology</a><br>
+  <a href="#-Art">🎨 Art</a> • <a href="#-engineering">🔧 Engineering</a> • <a href="#-programming">💻 Programming</a>
+  • <a href="#-psychology">🧠 Psychology</a> • <a href="#-science">🧪 Science</a> • <a href="#-technology">⚡ Technology</a><br>
   <a href="#other">(Other)</a>
 </p>
 
 ---
 
-### 🎨 Artistic
+### 🎨 Art
 
 ### 🔧 Engineering
 
 ### 💻 Programming
+
+### 🧠 Psychology
 
 ### 🧪 Science
 
