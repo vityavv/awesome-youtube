@@ -12,5 +12,19 @@
   <a href="https://creativecommons.org/publicdomain/zero/1.0">
     <img src="https://img.shields.io/badge/license-CC0-blue.svg?style=flat-square">
   </a>
-  <h6>Curated list of awesome, high-quality youtube channels</h6>
+  <h6>Curated list of awesome, high-quality (somewhat educational) YouTube channels</h6>
 </div>
+
+### 🎨 Artistic
+
+### 🔧 Engineering
+
+### 💻 Programming
+
+### 🧪 Science
+
+### ⚡ Technology
+
+---
+
+### Other
