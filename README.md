@@ -37,6 +37,7 @@
 Give short, yet specific definitions of each channel; please try and avoid repeating the same descriptions over and over.
 
 #### [license](./LICENSE.md)
+To the extent possible under law, all copyright and related or neighboring rights to this work have been waived by the creator.
 
 ---
 
