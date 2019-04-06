@@ -48,6 +48,7 @@ To the extent possible under law, all copyright and related or neighboring right
 ### 🛠 DIY
 
 - [EvanAndKatelyn](https://www.youtube.com/channel/UCUuMYw2l2UeWyTGYixYfRCA) create some really nice and comfy content as they go about fixing up their house and making art to fill it with.
+- [kipkay](https://www.youtube.com/channel/UCzNAswnSN0rZy79clU-DRPg) has a large back-catalog of different projects people can make and use.
 
 ### 💸 Economics
 
@@ -67,6 +68,7 @@ To the extent possible under law, all copyright and related or neighboring right
 - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q) has some actually well made top-ten lists and interesting explorartory videos.
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) tongue-and-cheek spin off of Wendover Productions for shooter-form, slightly less interesting videos.
 - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w) makes history lessons and videos on civic efficiency.
+- [austinmcconell](https://www.youtube.com/channel/UCbxQcz9k0NRRuy0ukgQTDQQ) makes videos about lots of different things while focusing on films and popular "nerd" culture.
 
 ### 🔧 Engineering
 
@@ -76,10 +78,18 @@ To the extent possible under law, all copyright and related or neighboring right
 ### 🧮 Math
 
 - [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) YABHC about numbers and interviewing some pretty cool mathetmaticians.
+- [Singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA) talks about different concepts in math in a realy exciting and understandable fashion.
 
 ### 🎵 Music
 
 - [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA) is an amazing artist that creates some entertainment based music (e.g. Game of Thrones remixes), but also creates absolutely stunning scientific and philosophical music.
+- [12tone](https://www.youtube.com/channel/UCTUtqcDkzw7bisadh6AOx5w) analyses music, both contemporary and classical, while drawing out his narrations on pages of staffs.
+- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw) makes well-narrated videos that analyze videogame music through history.
+- [Adam Neely](https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ) is a bassist that does everything music, looking at music from different cultures, talking about rhythms, and teaching music theory.
+- [Andrew Huang](https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g) creates music from a countless number of genres, but experiments a lot with new music technology and electronic music.
+- [Boyinaband](https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ) collaborates with other youtubers to create music and does musical challenges on his own.
+- [Sean Hogan](https://www.youtube.com/channel/UC1Fz5YWpwDUV66YLURRQp3w) uses different sounds to create music in interesting and cool ways.
+- [Sideways](https://www.youtube.com/channel/UCi7l9chXMljpUft67vw78qw) analyses music, talks about current film/television scores connect to classical scores, and delves into a more general aspect of music theory.
 
 ### ⚖ Philosophy
 
@@ -91,6 +101,11 @@ To the extent possible under law, all copyright and related or neighboring right
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) is YABHC that has talks from some of the juggernauts of the computer science world.
 - [Hopson](https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA) does a bunch of programming projects and records them.
 - [suckerpinch](https://www.youtube.com/channel/UC3azLjQuz9s5qk76KEXaTvA) is a channel run by tom7 who creates some videos that are equally hyper-intelligent and hyper-stupid (e.g. making a 3-bit FPU using INF and NaN).
+- [bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg) creates videos that show his thought process while coding things, usually using C or C++ and interacting with graphics.
+- [Carykh](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A) creates humorous animated videos describing how he uses artificial intelligence to do a lot of different and unusual things.
+- [Code Parade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw) does deep technological explanations of different experiments he does with coding.
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) creates videos about different exploits, CTFs, and general InfoSec knowledge.
+- [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) teaches bash scripting and Linux system configuration, sometimes while ranting about how bloaty and slow things have gotten these days.
 
 ### 🧪 Science
 
@@ -100,12 +115,17 @@ To the extent possible under law, all copyright and related or neighboring right
 - [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) presents biology interestingly: under the guise of the game Outside, analyzing animals by their matchups, meta standings, and skill trees.
 - [SciShow Space](https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg) self-explanatory name.
 - [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) super-quick and effective explanations of confusing physics.
+- [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg) is a former NASA engineer who creates fun little gizmos and gadgets and then makes videos about how they work and the scientific principles behind them.
+- [MinuteEarth](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w) talks about concepts of nature and the world in short, animated videos.
 
 ### ⚡ Technology
 
 - [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA) has (semi) regular news shows and also designs open-source hardware.
+- [Techmoan](https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw) is a british youtuber who looks at current and retro technology and focuses on how people have stored and played music over the ages.
 
 ### 📦 Miscellaneous
 
 - [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg) YABHC about looking over things in the archives of the Royal Society in England.
 - [Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig) produces pop-culture analysis stuff that's real nice.
+- [Pasta Grannies](https://www.youtube.com/channel/UCedsqpl7jaIb8BiaUFuC9KQ) is a channel where the host travels around Italy and documents the recipes of different old ladies' pastas in a nice and endearing way.
+- [Summoning Salt](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w) makes documentaries about videogame world records over history.
